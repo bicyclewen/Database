@@ -7,3 +7,6 @@ SQL (Structured English Query Language)
   DML CURD(新增/修改/刪除、查詢)
   DDL 
   DCL
+
+題目:
+篩紀錄的名字、電話
