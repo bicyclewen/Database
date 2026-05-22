@@ -4,9 +4,13 @@
 集合代數
 
 SQL (Structured English Query Language)
-  DML CURD(新增/修改/刪除、查詢)
-  DDL 
+  DML 
+    CURD(新增/修改/刪除、查詢)
+  DDL
+    1. 文字
+    2. 數字
   DCL
 
 題目:
 篩紀錄的名字、電話
+找四個字的名字
